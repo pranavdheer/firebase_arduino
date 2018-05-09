@@ -7,6 +7,7 @@ This code sends data to firebase after acquiring 300 data samples , the maximum 
 ### Prerequisites
 
 This code is tested on node mcu 12-E and arduino 1.8.5
+
 Libraries-:
 
 ```
